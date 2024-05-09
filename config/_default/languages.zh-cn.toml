@@ -1,26 +1,26 @@
-languageCode = "en"
-languageName = "English"
-weight = 2
-title = "Blowfish"
+languageCode = "zh-cn"
+languageName = "Simplified Chinese"
+weight = 1
+title = "柚子的博客"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ZH-CN"
+  isoCode = "zh-cn"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2006-01-02"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [author]
-   name = "Your name here"
+   name = "柚子"
    image = "profile.jpg"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   # headline = "I'm only human"
+   bio = "Java..."
    links = [
 #     { email = "mailto:hello@your_domain.com" },
-     { link = "https://blowfish.page/" },
+#     { link = "https://blowfish.page/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -31,7 +31,7 @@ title = "Blowfish"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/nunocoracao/blowfish" },
+#     { github = "https://github.com/nunocoracao/blowfish" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
@@ -57,7 +57,7 @@ title = "Blowfish"
 #     { tiktok = "https://tiktok.com/@username" },
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
-     { twitter = "https://twitter.com/burufugu" },
+#     { twitter = "https://twitter.com/burufugu" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },

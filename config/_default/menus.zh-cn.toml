@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "博文"
   pageRef = "posts"
   weight = 10
 
@@ -48,7 +48,7 @@
 #  weight = 20
 
 #[[main]]
-#  name = "Tags"
+#  name = "标签"
 #  pageRef = "tags"
 #  weight = 30
 
